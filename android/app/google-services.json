@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "109245017909",
+    "project_id": "wassuptoday-2cd1c",
+    "storage_bucket": "wassuptoday-2cd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109245017909:android:8fc259db07e0b7fb43667c",
+        "android_client_info": {
+          "package_name": "com.example.wassuptoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109245017909-f5ns7upkau856egegt10sc81405cpk72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wassuptoday",
+            "certificate_hash": "5c113c386afb31db91756711b9d3ed35ebcb91a1"
+          }
+        },
+        {
+          "client_id": "109245017909-kndsrmkqd0s9olkb8jlhcgtmg10jdd4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJm1eeLG9wsfXLdKRMfL_vVAwJkLyha8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109245017909-kndsrmkqd0s9olkb8jlhcgtmg10jdd4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109245017909-77aor25f8nt3f13ic4k48p7o5jg9kt8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wassuptoday.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
