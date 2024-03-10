@@ -1,4 +1,4 @@
-String apikey = "d18246d4d19242a0b31a4254e3ce76ae";
+String apikey = "YOUR_API_KEY";
 List<String> categories = [
     'business',
     'entertainment',
